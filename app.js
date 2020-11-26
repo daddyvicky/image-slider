@@ -24,4 +24,4 @@ function changeImg(){
   
 }
 
-window.onload = changeImg();
+window.onload = changeImg;
